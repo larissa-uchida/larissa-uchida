@@ -1,7 +1,7 @@
 # Oi, também sou chamada por Azuki!
 
 <div style="display: inline_block">
-  <img align="right" alt="cat-gif" height="250" width="250" src="https://i.pinimg.com/originals/03/a8/ff/03a8ff66062fd6b388e809553c633980.gif">
+  <img align="right" alt="cat-gif" height="230" width="210" src="https://i.pinimg.com/originals/03/a8/ff/03a8ff66062fd6b388e809553c633980.gif">
 </div>
 
 ```
