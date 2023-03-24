@@ -10,7 +10,7 @@
 ```
 
 <div style="display: inline_block">
-  <img align="left" height="180" width="350" src="https://github-readme-stats.vercel.app/api?username=larissa-uchida&theme=dracula&show_icons=true">
+  <img align="left" height="180" width="320" src="https://github-readme-stats.vercel.app/api?username=larissa-uchida&theme=dracula&show_icons=true">
   <img height="180" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-uchida&layout=compact&theme=dracula"/>
 </div>
 
