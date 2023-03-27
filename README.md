@@ -10,8 +10,8 @@
 ```
 
 <div style="display: inline_block">
-  <img align="left" height="180" width="305" src="https://github-readme-stats.vercel.app/api?username=larissa-uchida&theme=dracula&show_icons=true">
-  <img height="180" width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissa-uchida&layout=compact&theme=dracula"/>
+  <img align="left" height="180" width="305" src="https://github-readme-stats-sigma-five.vercel.app/api?username=larissa-uchida&theme=dracula&show_icons=true">
+  <img height="180" width="305" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larissa-uchida&layout=compact&theme=dracula"/>
 </div>
 
 
