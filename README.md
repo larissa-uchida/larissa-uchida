@@ -1,12 +1,13 @@
-# Oi, também sou chamada por Azuki!
+# Hello!
 
 <div style="display: inline_block">
   <img align="right" alt="cat-gif" height="230" width="210" src="https://i.pinimg.com/originals/03/a8/ff/03a8ff66062fd6b388e809553c633980.gif">
 </div>
 
 ```
-- Aluna de Ciências da Computação - 1/8
-- Buscando meu primeiro estágio!
+- Computer Science Student - 1/8
+- Looking for my first job!
+- Interest in data science and back-end
 ```
 
 <div style="display: inline_block">
