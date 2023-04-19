@@ -7,7 +7,7 @@
 ```
 - Computer Science Student - 1/8
 - Looking for my first job!
-- Interest in data science and back-end
+- Interested in data science and back-end
 ```
 
 <div style="display: inline_block">
