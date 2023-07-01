@@ -6,8 +6,7 @@
 
 ```
 - I'm 18 years old
-- Computer Science Student - 1/8
-- Looking for my first job
+- Computer Science Student - 2/8
 - Interested in data science and back-end
 ```
 
