@@ -5,9 +5,7 @@
 </div>
 
 ```
-- I'm 18 years old
-- Computer Science Student - 2/8
-- Interested in data science and back-end
+- Computer Science Student
 ```
 
 <div style="display: inline_block">
